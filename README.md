@@ -14,13 +14,13 @@ The plugin can also be turned on/off during the round using the command `fragili
 ### Installation
 If you haven't changed anything in your EXILED files, you will have to put the `.dll` file from the GitHub in the following folder:
 
-C:\Users[User]\AppData\Roaming\EXILED\Plugins
+C:\Users\[User]\AppData\Roaming\EXILED\Plugins
 
 
 ### Permissions
 Permissions are managed in the following file:
 
-C:\Users\GamerX\AppData\Roaming\EXILED\Configs\permissions.yml
+C:\Users\[User]\AppData\Roaming\EXILED\Configs\permissions.yml
 
 
 **Example `permissions.yml` file format:**
